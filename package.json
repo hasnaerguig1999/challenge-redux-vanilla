@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "vite": "^4.5.0"
+  },
+  "dependencies": {
+    "redux": "^4.2.1"
+  }
+}
